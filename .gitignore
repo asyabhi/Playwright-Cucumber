@@ -2,3 +2,17 @@ node_modules/
 /test-results/
 /playwright-report/
 /playwright/.cache/
+
+test-result/report/assets/
+
+test-result/report/features/
+
+test-result/report/cucumber-report.html
+
+test-result/report/cucumber-report.json
+
+test-result/report/index.html
+
+test-result/screenshots/Login and Logout with valid credentials.png
+
+test-result/screenshots/Login with valid and invalid credentials.png
