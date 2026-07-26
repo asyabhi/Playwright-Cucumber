@@ -49,8 +49,6 @@ npm test
 npm run test:rerun
 ```
 
-*(Check `package.json` for the exact script names and adjust the two commands above if yours differ.)*
-
 ## Project Structure
 
 ```
